@@ -10,7 +10,7 @@ main {
    margin-top: 10rem;
 }
 
-.create-user {
+.create_user {
    position: fixed;
    transform: rotate(-90deg);
    top: 50%;
@@ -20,7 +20,7 @@ main {
    padding: 0.5rem 1rem;
    font-size: 1.8rem;
    cursor: pointer;
-   left: -43px;
+   left: -25px;
 }
 
 .no_users {
